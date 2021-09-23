@@ -11,7 +11,7 @@ import os
 import openpyxl
 import requests
 
-root = "统计/"
+root = "dist/"
 wb = openpyxl.load_workbook('测试.xlsx')
 ws = wb.get_sheet_by_name('Sheet2')
 stuNum = 1  # 填写人数
