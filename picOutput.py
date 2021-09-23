@@ -2,7 +2,7 @@
 """
 @Time ： 2020/4/6 12:50
 @Auth ： Suk
-@File ： 开学前汇总.py
+@File ： picOutput.py
 @IDE  ： PyCharm
 @Motto： Knowing your ignorance is the best way to succeed.
 @Desc:  通过腾讯文档发起的图片收集表导出图片
